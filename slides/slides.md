@@ -33,7 +33,7 @@
 
 
 
-#### P2.3: 'Abd Al Muttalib and the Recovery of ZamZam
+### P2.3: 'Abd Al Muttalib and the Recovery of ZamZam
 
 
 ### Muttalib
@@ -216,7 +216,7 @@ and God is a witness to everything.
 
 
 
-##### P3.3 The Yemeni Attack on Mecca
+## P3.3 The Yemeni Attack on Mecca
 
 
 ### Reasons for the Attack
